@@ -54,7 +54,7 @@ const categories = getAllCategories()
 */
 ```
 #### getSpecificGroups
-Returns the group names that are found that said category.
+Returns the group names that are found in that said category.
 can be used to get arguments to be used with `getAllEmojisInGroup()` or `getRandomEmojiInGroup`
 ```javascript
 import {getSpecificGroups} from 'emoxy';
